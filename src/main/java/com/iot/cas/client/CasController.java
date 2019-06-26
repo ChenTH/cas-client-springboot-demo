@@ -27,7 +27,7 @@ public class CasController {
     /**
      * 单点登录服务地址
      */
-    private static final String casUrl = "https://www.c9vr.com";
+    private static final String casUrl = "https://www.sso.com";
     /***
      * 当前服务地址
      */
